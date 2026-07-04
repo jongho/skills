@@ -1,6 +1,6 @@
 ---
 name: korean-document-writing
-description: Draft, rewrite, review, or transform Korean documents for public, business, technical, service, policy, educational, or operational use. Use when Codex needs to improve Korean document accuracy, clarity, readability, public-language quality, reader-oriented structure, tone, terminology, formatting, or document-type conventions for notices, official letters, reports, press releases, emails, manuals, meeting notes, policies, and service guides.
+description: Write, draft, rewrite, review, or transform Korean documents for public, business, technical, service, policy, educational, or operational use. Use to improve Korean document accuracy, clarity, readability, public-language quality, reader-oriented structure, tone, terminology, formatting, or document-type conventions for notices, official letters, reports, press releases, emails, manuals, meeting notes, policies, and service guides.
 ---
 
 # 한국어 문서 작성 기술
