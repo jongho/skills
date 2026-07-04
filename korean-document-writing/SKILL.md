@@ -7,7 +7,7 @@ description: Write, draft, rewrite, review, or transform Korean documents for pu
 
 이 기술은 한글 문서를 새로 작성하거나, 기존 문서를 고치거나, 문서 유형을 바꾸어 재작성할 때 사용한다.
 
-국립국어원 공공언어 지침, 특히 『개정판 한눈에 알아보는 공공언어 바로 쓰기』(2022)의 원칙을 바탕으로 하되, 사용자가 제공한 사실과 의도는 보존한다.
+국립국어원 공공언어 지침, 특히 『개정판 한눈에 알아보는 공공언어 바로 쓰기』(2022)와 『쉬운 공문서 쓰기 길잡이』(2022)의 원칙을 바탕으로 하되, 사용자가 제공한 사실과 의도는 보존한다.
 
 ## 1. 적용 범위
 
@@ -18,6 +18,8 @@ description: Write, draft, rewrite, review, or transform Korean documents for pu
 - 보고서, 검토서, 회의록, 제안서, 기획서
 - 업무 이메일, 내부 메모, 매뉴얼, 사용자 안내서
 - 정책·제도·서비스 설명 문서
+- 민원 문서용 서식, 신청서, 접수 안내
+- 누리소통망서비스 홍보 글, 카드 뉴스 문안
 - 기술 문서, 운영 절차서, 장애 보고서, 릴리스 노트
 
 문서가 공공기관용이 아니더라도, 독자가 여러 명이거나 정보 전달의 정확성이 중요한 문서에는 이 지침을 우선 적용한다.
@@ -37,9 +39,9 @@ description: Write, draft, rewrite, review, or transform Korean documents for pu
 요청에 필요한 참고 파일만 읽는다.
 
 - 어려운 말, 일본어 투 표현, 외국어, 번역 투, 띄어쓰기, 문장 부호, 주의 표현을 고칠 때는 [references/expression-replacements.md](references/expression-replacements.md)를 읽는다.
-- 문장, 단락, 논리 관계, 목록과 표, 날짜·숫자·시간 표기를 다룰 때는 [references/writing-structure.md](references/writing-structure.md)를 읽는다.
-- 공문, 협조 요청문, 보도 자료, 보고서, 안내문, 공고문, 업무 이메일, 회의록, 매뉴얼처럼 문서 유형별 형식이 필요할 때는 [references/document-types.md](references/document-types.md)를 읽는다.
-- 최종 검토, 교정 근거 제시, 의미 변경 위험 판단이 필요할 때는 [references/checklists.md](references/checklists.md)를 읽는다.
+- 문장, 단락, 논리 관계, 독자 분석, 매체 특성, 목록과 표, 날짜·숫자·시간 표기를 다룰 때는 [references/writing-structure.md](references/writing-structure.md)를 읽는다.
+- 공문, 협조 요청문, 보도 자료, 보고서, 안내문, 공고문, 민원 문서용 서식, 누리소통망서비스 홍보 글, 업무 이메일, 회의록, 매뉴얼처럼 문서 유형별 형식이 필요할 때는 [references/document-types.md](references/document-types.md)를 읽는다.
+- 최종 검토, 쉬운 공문서 요건 점검, 교정 근거 제시, 의미 변경 위험 판단이 필요할 때는 [references/checklists.md](references/checklists.md)를 읽는다.
 
 ## 4. 작업 원칙
 
@@ -58,6 +60,7 @@ description: Write, draft, rewrite, review, or transform Korean documents for pu
 - 목적: 알림, 요청, 설득, 보고, 기록, 안내, 교육, 홍보, 사과, 공지 등
 - 독자가 해야 할 행동: 신청, 확인, 참석, 회신, 승인, 참고, 조치 등
 - 독자가 꼭 알아야 할 정보: 일시, 장소, 대상, 조건, 절차, 비용, 기한, 문의처 등
+- 전달 매체: 공문, 공고문, 서식, 보도 자료, 누리집, 누리소통망서비스, 문자, 전자우편 등
 
 ### 4.3 쉬운 말 우선 원칙
 
